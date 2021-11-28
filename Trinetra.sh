@@ -1,5 +1,5 @@
 #!/bin/bash
-# instagram: @thelinuchoice
+# instagram: @IndianCyberTroops
 clear
 N='\033[0m'
 R='\033[0;31m'
