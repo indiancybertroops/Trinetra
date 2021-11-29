@@ -85,3 +85,7 @@ rm -rf ict.url*
 printf "\e[1;77m\nLinks found: $(wc -l result.txt | tr -cd [:digit:]) \e[0m \n" 
 printf "\e[1;77mSaved on: result.txt \e[0m \n"
 printf "\e[1;77mTime Elapsed: $duration seconds \e[0m \n"
+
+# show results
+echo " "
+cat result.txt
